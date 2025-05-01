@@ -1,14 +1,6 @@
-# Chat Room
+# Flask Server
 
 ## Setup
-
-### React Frontend
-
-1. Ensure you have [Node.js](https://nodejs.org/en/download) installed on your machine.
-2. In a terminal, change to the `react-frontend` directory.
-3. Run the `npm install` command to install node modules and required packages within the `package.json` file.
-
-### Flask Server
 
 1. In a terminal, change to the `flask-server` directory.
 2. Run the `python -m venv .venv` command to install a virtual environment.
@@ -16,13 +8,6 @@
 4. Run the `pip install -r requirements.txt` command to install the necessary dependencies.
 
 ## Usage
-
-### React Frontend
-
-1. In a terminal, change to the `react-frontend` directory.
-2. Run the `npm run dev` command to launch the React app.
-
-### Flask Backend
 
 1. In a terminal, change to the `flask-server` directory.
 2. Run the `.venv/Scripts/activate` command to activate the virtual environment.
