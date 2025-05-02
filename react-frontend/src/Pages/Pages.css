@@ -1,0 +1,50 @@
+.homeCard {
+    background-color: #292b2f;
+}
+
+.title {
+    background-color: #292b2f;
+    color: #f5f5f5
+}
+
+.messages::-webkit-scrollbar {
+    display: none;
+}
+
+.messages {
+    height: 50vh;
+    overflow-y: scroll;
+}
+
+.message {
+    background-color: #292b2f;
+    color: #f5f5f5;
+}
+
+.form {
+    background-color: #292b2f;
+}
+
+.nameInput {
+    color: #f5f5f5;
+}
+
+.messageInput {
+    width: 500px;
+    color: #f5f5f5;
+}
+
+.submitBtn {
+    height: 56px;
+    text-transform: none !important;
+    font-size: 16px !important;
+    color: #f5f5f5 !important;
+}
+
+.sendBtn {
+    width: 100px;
+    height: 56px;
+    text-transform: none !important;
+    font-size: 16px !important;
+    color: #f5f5f5 !important;
+}
